@@ -1,6 +1,6 @@
 <!-- This is a locker script i made for my zombie server HMZS https://www.discord.gg/hmrp ElkieD#0001 -->
 
-This is a simple locker script i made to have on a zombie server so you have one locker location but it gives people there own indivdual stash for that locker 
+This is a simple locker script i made to have on a zombie server so you have one locker location but it gives people there own individual stash for that locker 
 
 **Installation**
 1) unzip folder
